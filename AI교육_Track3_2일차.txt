@@ -1,0 +1,22 @@
+강의 키 : 522986
+
+helloai.kr - 강사님 일정 표
+김영욱 강사
+영욱 스튜디오 - 유튜브
+
+pdf를 청크 사이즈로 텍스트 분할
+테스트를 임베딩 : 컴퓨터가 이해할수있는 숫자 벡터로 나열
+벡터 DB에 저장
+
+벡터 DB 유형과 선택 가이드
+Chroma DB
+Postgre SQL
+Azure AI Search
+
+2025 it company income flow
+
+이후 트렌드
+Agentic RAG
+Graph RAG
+
+map reduce document chain : DB에서 얻은 결과를 LLM에 요약시킴, parallel 하게 시도함

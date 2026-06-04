@@ -1,0 +1,21 @@
+강의 키 : 522986
+
+helloai.kr - 강사님 일정 표
+김영욱 강사
+영욱 스튜디오 - 유튜브
+
+openai tokenizer
+artificialanalysis.ai
+
+LLM -> SLM
+너무 크기 때문에 목적에 맞게 최적화해서 사용함
+
+hugging face : LLM 계의 github
+계정 : 11
+
+import openai : pip install openai
+from dotend import load_dotenv : pip install python-dotenv
+import os
+import streamlit as st : pip install streamlit
+
+=> streamlit run 파일명

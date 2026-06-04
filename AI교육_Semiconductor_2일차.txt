@@ -1,0 +1,17 @@
+강의 키 : 232053
+1번
+
+labuser1@helloaicloud.onmicrosoft.com
+
+helloai.kr - 강사님 일정 표
+김영욱 강사
+영욱 스튜디오 - 유튜브
+
+Google NotebookLM
+
+ai.azure.com
+
+유튜브 - postgresql conference - 벡터 DB, 그래프 DB
+
+
+ollama - 로컬 설치 LLM

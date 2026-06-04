@@ -1,0 +1,12 @@
+강의 키 : 098018
+
+구글 Attention is all you need 논문
+
+
+Transformer Architecture
+
+강사님이 쓰는것
+클로드 코드
+깃헙 코파일럿 <= 이거
+
+azure ml algorithm cheat sheet

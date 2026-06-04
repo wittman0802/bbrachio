@@ -1,0 +1,27 @@
+강의 키 : 098018
+
+helloai.kr - 강사님 일정 표
+김영욱 강사
+영욱 스튜디오 - 유튜브
+
+
+https://learn.microsoft.com/ : Azure 관련 AI 기초 교육 -  AI 개념 소개
+
+microsoft datacenter tour
+리전
+추천
+미국, 스웨덴
+
+비추천
+중국, 독일, 중동국가
+
+Data -> Math(algorithm) -> Model -> Result
+                             ??? ->
+
+azure machine learning cheat sheet
+
+Traing Model : 훈련된 모델
+Score Model : 각 Row 별로 Test를 한 모델
+Evaluate Model : Score Model을 통해 모델 평가
+
+finviz : 미국 주식 시각화
